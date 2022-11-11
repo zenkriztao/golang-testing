@@ -7,9 +7,8 @@ link flowchart unit test:
 
 # clone repo
 
-# git clone [uri-repo]
-# git add [file/folder]
-# git commit -m [pesan]
-# git remote add origin [branch] [uri-repo-github-kamu]
-# git [action] -u/-f origin [branch] 
-
+1. `git clone [uri-repo]`
+2. `git add [file/folder]`
+3. `git commit -m [pesan]`
+4. `git remote add origin [branch] [uri-repo-github-kamu]`
+5. `git [action] -u/-f origin [branch]`
