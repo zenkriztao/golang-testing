@@ -3,9 +3,9 @@
 
 link flowchart unit test:
 
-[https://pastebin.com/rKFipze1]
+[https://pastebin.com/rKFipze13]
 
-# clone repo
+# Clone repo
 
 1. `git clone [uri-repo]`
 2. `git add [file/folder]`
